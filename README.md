@@ -1,4 +1,12 @@
-## 【Ｓｋｉｌｌｓ】
+<div align="center">
+  <img src="./github_banner.png" width="100%" alt="Architecture Banner" />
+
+  # Future Solutions Architect & Cloud Engineer
+  **"Engineering high-availability systems where code meets infrastructure."**
+  
+  *18-year-old high school senior focusing on AWS Cloud Architecture, IaC, and Scalable DevOps Pipelines.*
+</div>
+## 【My Skills】
 ### Infrastructure & Cloud
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,githubactions)](https://skillicons.dev)
 
@@ -10,7 +18,7 @@
 
 ---
 
-## 【Ｐｒｏｊｅｃｔｓ】
+## 【My Key Projects】
 
 ### [Vprofile Cloud Infrastructure](your-repo-link)
 Production-grade multi-tier AWS infrastructure built entirely with Terraform across three isolated state modules (networking, initial, app infra).
