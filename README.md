@@ -10,18 +10,18 @@
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+## Technical Stack & Expertise
 
 | Domain | Skill Icons | Primary Tools |
 | :--- | :--- | :--- |
-| **Cloud Infrastructure** | ![AWS](https://skillicons.dev/icons?i=aws,terraform,linux) | **AWS (VPC, EC2, RDS), Terraform, Linux (Ubuntu/CentOS)** |
-| **DevOps & CI/CD** | ![DevOps](https://skillicons.dev/icons?i=jenkins,githubactions,ansible,docker) | **Jenkins, GitHub Actions, Ansible, Docker** |
-| **Backend & Logic** | ![Backend](https://skillicons.dev/icons?i=java,spring,python,cs) | **Java (Spring Boot), Python, C#** |
+| **Cloud Infrastructure** | ![AWS](https://skillicons.dev/icons?i=aws,terraform,linux) | **AWS, Terraform, Linux (Debian/RHEL)** |
+| **DevOps & CI/CD** | ![DevOps](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,jenkins) | **GitHub Actions, Docker, Kubernetes,Jenkins** |
+| **Backend & Logic** | ![Backend](https://skillicons.dev/icons?i=java,spring,python,cs) | **Java (Spring Boot), Python (Pandas, Numpy), C#** |
 | **Data & Messaging** | ![Data](https://skillicons.dev/icons?i=mysql,rabbitmq,memcached) | **MySQL, RabbitMQ (Messaging), Memcached (Caching)** |
 
 ---
 
-## 【My Key Projects】
+## My Key Projects
 
 ### [Vprofile Cloud Infrastructure](your-repo-link)
 Production-grade multi-tier AWS infrastructure built entirely with Terraform across three isolated state modules (networking, initial, app infra).
