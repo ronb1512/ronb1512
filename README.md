@@ -1,6 +1,6 @@
-![Banner](./github_banner.png)
+
 <div align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./github_banner.png" width="100%" />
   
   # 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! ☁️
 </div>
