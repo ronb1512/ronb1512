@@ -1,22 +1,30 @@
-
-
-## 【﻿Ｓｋｉｌｌｓ】
-
-### Infrastructure & Automation
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,ansible,githubactions,jenkins,docker,kubernetes)](https://skillicons.dev)
+## 【Ｓｋｉｌｌｓ】
+### Infrastructure & Cloud
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,githubactions)](https://skillicons.dev)
 
 ### Development & Backend
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,cs,mysql,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,html,css,js)](https://skillicons.dev)
 
-### Middleware & Caching
+### Middleware & Messaging
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,redis)](https://skillicons.dev)
 
 ---
 
-## Key Architectures
+## 【Ｐｒｏｊｅｃｔｓ】
 
-* **[Remote Terraform Execution](your-repo-link):** Solving 8GB RAM limitations by offloading IaC workloads to AWS EC2 runners.
-* **[vprofile-Project](your-repo-link):** A multi-tier Java app migration involving **RabbitMQ** for messaging and **Memcached** for database caching.
+### [Vprofile Cloud Infrastructure](your-repo-link)
+Production-grade multi-tier AWS infrastructure built entirely with Terraform across three isolated state modules (networking, initial, app infra).
+
+**Infrastructure:** ECS Fargate with autoscaling · AmazonMQ RabbitMQ (TLS) · RDS MySQL · Elasticache Memcached · Application Load Balancer · Bastion host
+
+**Security:** KMS encryption · Secrets Manager · IAM least-privilege roles · Security groups · NACLs · Private subnets
+
+**Automation:** Lambda-based DB initializer · CI/CD pipeline with GitHub Actions · ECR image registry · Deployment circuit breaker with auto-rollback
+
+### [Remote Terraform Execution](your-repo-link)
+Solving local RAM limitations by offloading Terraform workloads to ephemeral AWS EC2 runners — full IaC execution in the cloud with automatic cleanup.
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronb1512&show_icons=true&theme=tokyonight" alt="Stats Card" />
