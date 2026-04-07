@@ -6,7 +6,7 @@
   
   *18-year-old high school senior focusing on AWS Cloud Architecture, IaC, and Scalable DevOps Pipelines.*
 </div>
-## 【My Skills】
+###【My Skills】
 ### Infrastructure & Cloud
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,githubactions)](https://skillicons.dev)
 
