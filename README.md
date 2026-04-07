@@ -6,9 +6,7 @@
   
   *18-year-old high school senior focusing on AWS Cloud Architecture, IaC, and Scalable DevOps Pipelines.*
 </div>
-### 📘 The "Sovereign" Brief
-> [!NOTE]
-> **Why I Build:** I don't just write code; I design the environments where code thrives. Whether it's offloading **Terraform** workloads to **EC2** to bypass local RAM limits or migrating legacy apps to **Dockerized** environments, I focus on the "How" and "Where" of technology.
+
 
 ---
 
