@@ -1,22 +1,5 @@
 
 
-> [!CAUTION]
-> 🔖 **Congratulations, you found a Solutions Architect in the making.**
-
-> [!NOTE]
-> 🚙 **I’m currently working on:** Cloud Infrastructure projects, specifically re-architecting legacy Java apps into AWS-native environments using **Spring Boot**, **MySQL**, and **Nginx**.
-
-> [!IMPORTANT]
-> 📚 **The Master List:** Currently deep-diving into **Terraform (IaC)**, **AWS Networking (VPC/CIDR)**, and **CI/CD Pipelines** with Jenkins and Docker. 😅
-
-> [!WARNING]
-> 💪🏼 **Future Goals:** Completing the **AWS SAA-C03** certification and moving toward full-scale **Solution Architecture**—viewing coding as a tool and architecture as the craft.
-
-> [!TIP]
-> 📗 **Collaboration:** If you're interested in high-level system design or bypassing hardware limits through remote execution—let's connect!
- 
----
-
 ## 【﻿Ｓｋｉｌｌｓ】
 
 ### Infrastructure & Automation
@@ -26,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,spring,cs,mysql,html,css,js)](https://skillicons.dev)
 
 ### Middleware & Caching
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,memcached,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,redis)](https://skillicons.dev)
 
 ---
 
