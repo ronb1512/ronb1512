@@ -24,28 +24,22 @@
 
 ## 【﻿Ｓｋｉｌｌｓ】
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🏗️ Infrastructure & Automation
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,ansible,githubactions,jenkins)](https://skillicons.dev)
 
-### ⚙️ DevOps & Automation
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### 💻 Development & Backend
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,cs,mysql)](https://skillicons.dev)
 
-### 💻 Backend Development
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 📨 Middleware & Caching
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,memcached)](https://skillicons.dev)
 
 ---
 
 ## 🏗️ Key Architectures
 
 * **[Remote Terraform Execution](your-repo-link):** Solving 8GB RAM limitations by offloading IaC workloads to AWS EC2 runners.
-* **[vprofile-Project](your-repo-link):** A full-stack migration of a multi-tier Java app to a scalable cloud environment.
+* **[vprofile-Project](your-repo-link):** A multi-tier Java app migration involving **RabbitMQ** for messaging and **Memcached** for database caching.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Stats Card" />
 </div>
