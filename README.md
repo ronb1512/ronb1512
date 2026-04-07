@@ -6,15 +6,20 @@
   
   *18-year-old high school senior focusing on AWS Cloud Architecture, IaC, and Scalable DevOps Pipelines.*
 </div>
-###【My Skills】
-### Infrastructure & Cloud
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,githubactions)](https://skillicons.dev)
+### 📘 The "Sovereign" Brief
+> [!NOTE]
+> **Why I Build:** I don't just write code; I design the environments where code thrives. Whether it's offloading **Terraform** workloads to **EC2** to bypass local RAM limits or migrating legacy apps to **Dockerized** environments, I focus on the "How" and "Where" of technology.
 
-### Development & Backend
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,mysql,html,css,js)](https://skillicons.dev)
+---
 
-### Middleware & Messaging
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq,redis)](https://skillicons.dev)
+## 🛠️ Technical Stack & Expertise
+
+| Domain | Skill Icons | Primary Tools |
+| :--- | :--- | :--- |
+| **Cloud Infrastructure** | ![AWS](https://skillicons.dev/icons?i=aws,terraform,linux) | **AWS (VPC, EC2, RDS), Terraform, Linux (Ubuntu/CentOS)** |
+| **DevOps & CI/CD** | ![DevOps](https://skillicons.dev/icons?i=jenkins,githubactions,ansible,docker) | **Jenkins, GitHub Actions, Ansible, Docker** |
+| **Backend & Logic** | ![Backend](https://skillicons.dev/icons?i=java,spring,python,cs) | **Java (Spring Boot), Python, C#** |
+| **Data & Messaging** | ![Data](https://skillicons.dev/icons?i=mysql,rabbitmq,memcached) | **MySQL, RabbitMQ (Messaging), Memcached (Caching)** |
 
 ---
 
