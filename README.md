@@ -15,9 +15,10 @@
 | Domain | Skill Icons | Primary Tools |
 | :--- | :--- | :--- |
 | **Cloud Infrastructure** | ![AWS](https://skillicons.dev/icons?i=aws,terraform,linux) | **AWS, Terraform, Linux (Debian/RHEL)** |
-| **DevOps & CI/CD** | ![DevOps](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,jenkins) | **GitHub Actions, Docker, Kubernetes,Jenkins** |
+| **DevOps & CI/CD** | ![DevOps](https://skillicons.dev/icons?i=githubactions,docker,kubernetes,jenkins) | **GitHub Actions, Docker, Kubernetes, Jenkins** |
 | **Backend & Logic** | ![Backend](https://skillicons.dev/icons?i=java,spring,python,cs) | **Java (Spring Boot), Python (Pandas, Numpy), C#** |
 | **Data & Messaging** | ![Data](https://skillicons.dev/icons?i=mysql,rabbitmq,memcached) | **MySQL, RabbitMQ (Messaging), Memcached (Caching)** |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=html,css,js) | **HTML, CSS, JS** |
 
 ---
 
