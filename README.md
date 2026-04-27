@@ -33,8 +33,12 @@ Production-grade multi-tier AWS infrastructure built entirely with Terraform acr
 
 **Automation:** Lambda-based DB initializer · CI/CD pipeline with GitHub Actions · ECR image registry · Deployment circuit breaker with auto-rollback
 
-### [Remote Terraform Execution](your-repo-link)
-Solving local RAM limitations by offloading Terraform workloads to ephemeral AWS EC2 runners — full IaC execution in the cloud with automatic cleanup.
+### [remotf — Remote Terraform Execution](https://github.com/ronb1512/Terraform_remote_execution)
+A research and implementation project exploring two distinct architectures for running Terraform remotely on AWS. Built as a fully self-contained Python CLI tool using Typer.
+
+**EC2 version:** Persistent execution host with rsync over SSH, automatic runner provisioning, lock-file based init caching, and SSH key management via Secrets Manager
+
+**ECS Fargate version:** Ephemeral serverless execution - every command runs in a fresh isolated container, streams logs live to the terminal, and exits with zero idle cost. Content-addressed S3 caching ensures providers and code are only uploaded when they actually change.
 
 ---
 
