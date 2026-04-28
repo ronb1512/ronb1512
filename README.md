@@ -22,9 +22,6 @@
 
 ---
 
-## My Key Projects
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronb1512&show_icons=true&theme=tokyonight" alt="Stats Card" />
