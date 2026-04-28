@@ -24,23 +24,7 @@
 
 ## My Key Projects
 
-### [Vprofile Cloud Infrastructure](your-repo-link)
-Production-grade multi-tier AWS infrastructure built entirely with Terraform across three isolated state modules (networking, initial, app infra).
 
-**Infrastructure:** ECS Fargate with autoscaling · AmazonMQ RabbitMQ (TLS) · RDS MySQL · Elasticache Memcached · Application Load Balancer · Bastion host
-
-**Security:** KMS encryption · Secrets Manager · IAM least-privilege roles · Security groups · NACLs · Private subnets
-
-**Automation:** Lambda-based DB initializer · CI/CD pipeline with GitHub Actions · ECR image registry · Deployment circuit breaker with auto-rollback
-
-### [remotf — Remote Terraform Execution](https://github.com/ronb1512/Terraform_remote_execution)
-A research and implementation project exploring two distinct architectures for running Terraform remotely on AWS. Built as a fully self-contained Python CLI tool using Typer.
-
-**EC2 version:** Persistent execution host with rsync over SSH, automatic runner provisioning, lock-file based init caching, and SSH key management via Secrets Manager
-
-**ECS Fargate version:** Ephemeral serverless execution - every command runs in a fresh isolated container, streams logs live to the terminal, and exits with zero idle cost. Content-addressed S3 caching ensures providers and code are only uploaded when they actually change.
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronb1512&show_icons=true&theme=tokyonight" alt="Stats Card" />
